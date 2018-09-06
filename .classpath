@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/client-combined-3.1.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/json.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/json-20170516.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/org.json.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Selenium/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Other/java-client-5.0.0-BETA3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Other/java-client-5.0.0-BETA3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/Other/java-client-5.0.0-BETA3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/GSon/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/GSon/gson-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/li/GSon/gson-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/imap.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/jansi-1.16.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/java-client-5.0.0-BETA9.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/log4j-color-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/osgi-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/slf4j-android-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/slf4j-ext-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/slf4j-jcl-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/slf4j-jdk14-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/slf4j-migrator-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Share Automation/KWFramework/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
